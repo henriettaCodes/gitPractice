@@ -20,5 +20,8 @@ Make a commit
 - git commit -m "followed by imperative message/instruction"
 
 Delete file
+
+- rm [file name]
+
 Stage
 Make a commit
