@@ -12,7 +12,13 @@ Create a new file
 - touch [filename]
 
 Add file to staging
+
+- git add . (to add all files under that repo)
+
 Make a commit
+
+- git commit -m "followed by imperative message/instruction"
+
 Delete file
 Stage
 Make a commit
