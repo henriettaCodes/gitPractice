@@ -1,0 +1,18 @@
+Task
+
+Initialise a Git repository
+
+- open VSCode
+- open chosen repo/folder
+- git init [dir name]
+- turns green with 'u' next to it to show 'untracked'
+
+Create a new file
+
+- touch [filename]
+
+Add file to staging
+Make a commit
+Delete file
+Stage
+Make a commit
